@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Next.js, node.js, Typescript, Express.js, Javascript**
 
-- 📫 How to reach me **www.softlinux575@gmail.com**
+- 📫 How to reach me **www.softlinux575@gmail.com upwork: https://www.upwork.com/freelancers/~014e39bb57fb62ea37**
 
 - 📄 Know about my experiences [7+ years experience as a full stack professional](7+ years experience as a full stack professional)
 
