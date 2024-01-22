@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **www.softlinux575@gmail.com upwork: https://www.upwork.com/freelancers/~014e39bb57fb62ea37  People per hour: https://www.peopleperhour.com/freelancer/technology-programming/deepak-singh-top-star-mobile-web-application-yywxvjw**
 
-- 📄 Know about my experiences [7+ years experience as a full stack professional Senior full stack developer with 7+ years if experience in MERN stack and With a proven track record in developing full stack applications using MongoDB, Express.js, React, and Node.js, I am eager to bring my technical expertise and passion for innovation to your esteemed team.
+- 📄 Know about my experiences [7+ years experience as a full stack MERN professional and With a proven track record in developing full stack applications using MongoDB, Express.js, React, and Node.js, I am eager to bring my technical expertise and passion for innovation to your esteemed team.
 
 In my previous roles as a Full stack MERN Developer, I have successfully designed, developed, and deployed web applications that combine a robust back-end with an intuitive and responsive front-end. Here are some key aspects of my experience:
 
